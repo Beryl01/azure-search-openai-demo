@@ -104,3 +104,5 @@ hooks:
         run: ./scripts/auth_update.sh;./scripts/prepdocs.sh
         interactive: true
         continueOnError: false
+
+name: Azure Deployment
