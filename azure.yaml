@@ -105,4 +105,3 @@ hooks:
         interactive: true
         continueOnError: false
 
-name: Azure Deployment
